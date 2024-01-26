@@ -43,10 +43,11 @@ xmltv_dtd = os.path.join(datapath, 'xmltv.dtd')
 
 
 def copy_guide_to_destination():
+	tools.copy(guide_temp, os.path.join(os.path.dirname(datapath), 'guide.xml'))
 	done = tools.comp(guide_temp, guide_dest)
 	if done:
 		try:
-			#tools.delete(guide_temp)
+			tools.delete(guide_temp)
 			tools.delete(os.path.join(datapath, '__pycache__'))
 			tools.delete(storage_path)
 			## Write new setting last_download
