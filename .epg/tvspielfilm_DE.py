@@ -278,7 +278,6 @@ def download_thread(tvsDE_chlist_selected, multi, list):
                 tvs_data_url = 'https://live.tvspielfilm.de/static/broadcast/list/{}/{}'.format(contentID, day_to_grab)
                 try: tvs_data = requests.get(tvs_data_url, headers=tvsDE_header).json()
                 except: tvs_data = ""
-                tvs_data = response.json()
                 temp.append(tvs_data)
 
         with open(broadcast_files, 'w', encoding='utf-8') as playbill:
