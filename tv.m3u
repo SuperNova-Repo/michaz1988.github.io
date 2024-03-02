@@ -122,11 +122,11 @@ plugin://plugin.video.vavooto/?name=RTL+CRIME
 #EXTINF:-1 tvg-id="RTL Living" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1446.png",RTL Living
 plugin://plugin.video.vavooto/?name=RTL+LIVING
 #EXTINF:-1 tvg-id="NITRO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png",RTL Nitro
-plugin://plugin.video.vavooto/?name=NITRO
+plugin://plugin.video.vavooto/?name=RTL+NITRO
 #EXTINF:-1 tvg-id="RTL Passion" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL Passion
 plugin://plugin.video.vavooto/?name=RTL+PASSION
 #EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png",RTL plus
-plugin://plugin.video.vavooto/?name=RTL+PLUS
+plugin://plugin.video.vavooto/?name=RTL+UP
 #EXTINF:-1 tvg-id="RiC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1060.png",RiC
 plugin://plugin.video.joyn/?mode=play_video&video_id=ric&stream_type=LIVE
 #EXTINF:-1 tvg-id="Romance TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png",Romance
