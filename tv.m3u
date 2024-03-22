@@ -78,7 +78,7 @@ plugin://plugin.video.joyn/?stream_type=LIVE&video_id=mtv-de-hd&mode=play_video
 #EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png",Motorvision
 plugin://plugin.video.joyn/?mode=play_video&video_id=motorvision-de-hd&stream_type=LIVE
 #EXTINF:-1 tvg-id="n-tv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
-plugin://plugin.video.vavooto/?name=N-TV
+plugin://plugin.video.vavooto/?name=NTV
 #EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png",N24 Doku
 plugin://plugin.video.joyn/?mode=play_video&video_id=n24-de&stream_type=LIVE
 #EXTINF:-1 tvg-id="NDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
