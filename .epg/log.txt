@@ -1,9 +1,13 @@
 [Takealug EPG Grabber 1.1.5+matrix] MAGENTA TV (DE) Erstelle XML Kanäle...
 Erstelle XML Kanäle für MAGENTA TV (DE)  : 100 Prozent verbleibend
-25 : Erstelle XML Kanäle für Cartoonito 
-50 : Erstelle XML Kanäle für Sky Showcase 
-75 : Erstelle XML Kanäle für Sky Atlantic 
-100 : Erstelle XML Kanäle für Sky Replay 
+12 : Erstelle XML Kanäle für Cartoonito 
+25 : Erstelle XML Kanäle für Sky Showcase 
+37 : Erstelle XML Kanäle für Sky Atlantic 
+50 : Erstelle XML Kanäle für Sky Replay 
+62 : Erstelle XML Kanäle für Sky Cinema Family 
+75 : Erstelle XML Kanäle für Sky Cinema Special 
+87 : Erstelle XML Kanäle für AXN Black 
+100 : Erstelle XML Kanäle für AXN White 
 [Takealug EPG Grabber 1.1.5+matrix] TV SPIELFILM (DE) Erstelle XML Kanäle...
 Erstelle XML Kanäle für TV SPIELFILM (DE)  : 100 Prozent verbleibend
 0 : Erstelle XML Kanäle für Das Erste 
@@ -130,19 +134,27 @@ Erstelle XML Kanäle für TV SPIELFILM (DE)  : 100 Prozent verbleibend
 99 : Erstelle XML Kanäle für Sky Documentaries 
 100 : Erstelle XML Kanäle für Sky Nature 
 [Takealug EPG Grabber 1.1.5+matrix] MAGENTA TV (DE) Can`t download in Multithreading mode, loading single... 
-[Takealug EPG Grabber 1.1.5+matrix] MAGENTA TV (DE) 4 Sender Daten die heruntergeladen werden müssen... 
+[Takealug EPG Grabber 1.1.5+matrix] MAGENTA TV (DE) 8 Sender Daten die heruntergeladen werden müssen... 
 Lade Senderdaten für MAGENTA TV (DE)  : 100 Prozent verbleibend
-25 : Lade Senderdaten für Cartoonito 
-50 : Lade Senderdaten für Sky Showcase 
-75 : Lade Senderdaten für Sky Atlantic 
-100 : Lade Senderdaten für Sky Replay 
+12 : Lade Senderdaten für Cartoonito 
+25 : Lade Senderdaten für Sky Showcase 
+37 : Lade Senderdaten für Sky Atlantic 
+50 : Lade Senderdaten für Sky Replay 
+62 : Lade Senderdaten für Sky Cinema Family 
+75 : Lade Senderdaten für Sky Cinema Special 
+87 : Lade Senderdaten für AXN Black 
+100 : Lade Senderdaten für AXN White 
 [Takealug EPG Grabber 1.1.5+matrix] MAGENTA TV (DE) Senderdaten heruntergeladen!
 [Takealug EPG Grabber 1.1.5+matrix] MAGENTA TV (DE) Erstelle XML EPG Senderdaten...
 Erstelle XML Senderdaten für MAGENTA TV (DE)  : 100 Prozent verbleibend
-25 : Erstelle XML Senderdaten für Cartoonito 
-50 : Erstelle XML Senderdaten für Sky Showcase 
-75 : Erstelle XML Senderdaten für Sky Atlantic 
-100 : Erstelle XML Senderdaten für Sky Replay 
+12 : Erstelle XML Senderdaten für Cartoonito 
+25 : Erstelle XML Senderdaten für Sky Showcase 
+37 : Erstelle XML Senderdaten für Sky Atlantic 
+50 : Erstelle XML Senderdaten für Sky Replay 
+62 : Erstelle XML Senderdaten für Sky Cinema Family 
+75 : Erstelle XML Senderdaten für Sky Cinema Special 
+87 : Erstelle XML Senderdaten für AXN Black 
+100 : Erstelle XML Senderdaten für AXN White 
 Takealug EPG Grabber : EPG vom Provider MAGENTA TV (DE) Gegrabbt!
 [Takealug EPG Grabber 1.1.5+matrix] EPG vom Provider MAGENTA TV (DE) Gegrabbt!
 [Takealug EPG Grabber 1.1.5+matrix] TV SPIELFILM (DE) Can`t download in Multithreading mode, loading single... 
