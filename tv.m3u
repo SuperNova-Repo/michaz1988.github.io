@@ -151,10 +151,10 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Standart" tvg-logo="http://ngiss.t-online.de/cm1s/media/4af8c51b0aae80d28cb887cd75fe15508aea515f.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/506.png",Sky Cinema Highlights
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHTS
 #EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 tvg-id="Sky Cinema Special" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/506.png",Sky Cinema Special
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="Sky Crime" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1424.png",Sky Crime
 plugin://plugin.video.vavooto/?name=SKY+CRIME
 #EXTINF:-1 tvg-id="Sky Documentaries" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1443.png",Sky Documentaries
