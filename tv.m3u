@@ -145,11 +145,11 @@ plugin://plugin.video.vavooto/?name=SILVERLINE
 plugin://plugin.video.joyn/?mode=play_video&video_id=sixx-at&stream_type=LIVE
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 #EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/483.png",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
-#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Standart" tvg-logo="http://ngiss.t-online.de/cm1s/media/4af8c51b0aae80d28cb887cd75fe15508aea515f.png",Sky Cinema Family
+#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1141.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 #EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/506.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHTS
