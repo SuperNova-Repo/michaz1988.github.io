@@ -48,7 +48,7 @@ plugin://plugin.video.dazn/?mode=play&title=Eurosport+2&id=1glc8nr85cpa21r4ahv80
 #EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
 plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
 #EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo
-plugin://plugin.video.tvnow.de?action=playVod&id=rrn:watch:videohub:station:10
+plugin://plugin.video.vavooto/?name=GEO
 #EXTINF:-1 tvg-id="gotv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1050.png",Go tv
 plugin://plugin.video.vavooto/?name=GOTV
 #EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
@@ -180,7 +180,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=sport1-de&stream_type=LIVE
 #EXTINF:-1 tvg-id="sportdigital Fussball" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1045.png",Sport digital
 plugin://plugin.video.dazn/?mode=play&title=SPORTDIGITAL+FUSSBALL&id=x8c9qhmvpi2d1hx8zcg9850bm&params=c3tbokwl3uci2u78hg866wl46&verify_age=False
 #EXTINF:-1 tvg-id="Super RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/993.png",Super RTL
-plugin://plugin.video.tvnow.de?action=playVod&id=rrn:watch:videohub:station:5
+plugin://plugin.video.vavooto/?name=SUPER RTL
 #EXTINF:-1 tvg-id="SWR/SR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
 plugin://plugin.video.vavooto/?name=SWR
 #EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/537.png",Syfy
