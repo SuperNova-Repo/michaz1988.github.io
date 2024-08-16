@@ -5,7 +5,7 @@
 		<import addon="script.module.requests"/>
 		<import addon="script.module.resolveurl"/>
 		<import addon="inputstream.ffmpegdirect" optional="true" /> 
-		<import addon="script.module.futures" optional="true" />
+		<import addon="script.module.future" optional="true" />
 		<import addon="script.module.infotagger" optional="true" />
 		<!-- only for debug -->
 		<import addon="script.module.pydevd" optional="true"/>
